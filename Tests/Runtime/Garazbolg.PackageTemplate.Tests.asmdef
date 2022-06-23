@@ -1,0 +1,8 @@
+{
+    "name": "Garazbolg.PackageTemplate.Tests",
+    "references": [
+        "Garazbolg.PackageTemplate"
+    ],
+    "includePlateforms": [],
+    "excludePatforms":[]
+}
