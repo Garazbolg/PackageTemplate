@@ -1,0 +1,8 @@
+{
+    "name": "Garazbolg.template.Tests",
+    "references": [
+        "Garazbolg.template"
+    ],
+    "includePlateforms": [],
+    "excludePatforms":[]
+}

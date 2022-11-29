@@ -1,0 +1,9 @@
+{
+    "name": "Garazbolg.template.Editor",
+    "references": [
+        "Garazbolg.template"
+    ],
+    "includePlateforms": [
+        "Editor"
+    ]
+}

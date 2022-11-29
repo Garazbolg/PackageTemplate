@@ -1,15 +1,13 @@
 {
-    "name": "com.garazbolg.packagetemplate",
+    "name": "com.garazbolg.template",
     "version": "0.1.0",
-    "displayName": "Package Template",
-    "description": "This is a template for a package",
-    "unity": "2021.3",
-    "unityRelease": "4f1",
+    "displayName": "template",
+    "description": "template",
     "dependencies": {
     },
     "keywords": [
-      "package manager",
-      "template"
+	"unity package",
+	"template"
     ],
     "author": {
       "name": "Garazbolg",
@@ -18,8 +16,8 @@
     },
     "samples": [
         {
-          "displayName": "Template",
-          "description": "The actual template for creating a package",
+          "displayName": "sample-template",
+          "description": "template Sample project",
           "path": "Samples/sample-template"
         }
       ]

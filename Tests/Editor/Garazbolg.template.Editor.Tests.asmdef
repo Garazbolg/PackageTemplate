@@ -1,0 +1,11 @@
+{
+    "name": "Garazbolg.template.Tests.Editor",
+    "references": [
+        "Garazbolg.template",
+        "Garazbolg.template.Editor"
+    ],
+    "includePlateforms": [
+        "Editor"
+    ],
+    "excludePatforms":[]
+}
